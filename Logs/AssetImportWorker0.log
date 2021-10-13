@@ -1,0 +1,1106 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1237; Version 2009; 64bit' Language: 'tr' Physical Memory: 16267 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\asus\Desktop\Unity\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/asus/OneDrive/Belgeler/GitHub/Spider Test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49281
+Successfully changed project path to: C:/Users/asus/OneDrive/Belgeler/GitHub/Spider Test
+C:/Users/asus/OneDrive/Belgeler/GitHub/Spider Test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 85.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/asus/OneDrive/Belgeler/GitHub/Spider Test/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   
+    VRAM:     4055 MB
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/asus/Desktop/Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002381 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.249 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004067 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 89.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.255 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3286 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.2 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 3700.
+Total: 9.018000 ms (FindLiveObjects: 1.722300 ms CreateObjectMapping: 0.493300 ms MarkObjects: 6.683700 ms  DeleteObjects: 0.115300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/[Escape From Kitchen[/2
+  artifactKey: Guid(9a0d17a9355e1c3409d61c558e310888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2 using Guid(9a0d17a9355e1c3409d61c558e310888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1777fb122699b16aa695e5d72f1a1aa') in 0.024506 seconds
+  Import took 0.035251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.355484 seconds.
+  path: Assets/[Escape From Kitchen[/2/Scripts
+  artifactKey: Guid(88201124768616147972007eb6e043a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Scripts using Guid(88201124768616147972007eb6e043a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98f538e4f0920d742a08d30acc89e20') in 0.010210 seconds
+  Import took 0.016878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.072099 seconds.
+  path: Assets/[Escape From Kitchen[/Scripts
+  artifactKey: Guid(e3d6681ccfd112c4dbceac1d9134c075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/Scripts using Guid(e3d6681ccfd112c4dbceac1d9134c075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935604f89865ecbe5deac2fa56f490da') in 0.003916 seconds
+  Import took 0.010872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.158289 seconds.
+  path: Assets/[Escape From Kitchen[/Scripts/SpiderController.cs
+  artifactKey: Guid(69c97196b76ba904d8b19d79f137976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/Scripts/SpiderController.cs using Guid(69c97196b76ba904d8b19d79f137976d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6330fbf3d9f654888799e448a0985792') in 0.045806 seconds
+  Import took 0.052888 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003871 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.481 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.2 MB.
+System memory in use after: 131.4 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3701.
+Total: 7.982500 ms (FindLiveObjects: 0.322900 ms CreateObjectMapping: 0.159200 ms MarkObjects: 7.452900 ms  DeleteObjects: 0.046200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.740652 seconds.
+  path: Assets/[Escape From Kitchen[/2/Meshes/smoothcube.obj
+  artifactKey: Guid(b5ec3dce30a2df94299fcbb6c7f97823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Meshes/smoothcube.obj using Guid(b5ec3dce30a2df94299fcbb6c7f97823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f45c8bb639ea74e39ddfcad395eea3d') in 0.210640 seconds
+  Import took 0.217115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/[Escape From Kitchen[/2/Meshes/Torus.fbx
+  artifactKey: Guid(31b66898fcd2e7042a570b37c47a377a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Meshes/Torus.fbx using Guid(31b66898fcd2e7042a570b37c47a377a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5ebf4a5ae80f4fd878171b1458ebf4') in 0.029000 seconds
+  Import took 0.035283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.540675 seconds.
+  path: Assets/[Escape From Kitchen[/2/PhysicMaterials/Obstacle.physicMaterial
+  artifactKey: Guid(6bac957ec11276e4aacfd82002c9c3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/PhysicMaterials/Obstacle.physicMaterial using Guid(6bac957ec11276e4aacfd82002c9c3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091660c30798893742afdee5a5abcba8') in 0.012178 seconds
+  Import took 0.018986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/[Escape From Kitchen[/2/PhysicMaterials/Spider.physicMaterial
+  artifactKey: Guid(d553b9cb60c95ff4295e3ccee78c713a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/PhysicMaterials/Spider.physicMaterial using Guid(d553b9cb60c95ff4295e3ccee78c713a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00414ff10a05a41564db1414da68ebf3') in 0.009435 seconds
+  Import took 0.016244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.933506 seconds.
+  path: Assets/[Escape From Kitchen[/SpiderOrange/Texture/Ambient Occlusion Map from Mesh DefaultMaterial.png
+  artifactKey: Guid(98b4ded919fb9184a830ac128a98ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/SpiderOrange/Texture/Ambient Occlusion Map from Mesh DefaultMaterial.png using Guid(98b4ded919fb9184a830ac128a98ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc543b6d94efa19f12cf41f8c5fd06e') in 0.050586 seconds
+  Import took 0.057459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.272611 seconds.
+  path: Assets/[Escape From Kitchen[/2/Materials/Ground.mat
+  artifactKey: Guid(41157da1e5585d744a0f328323061143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Materials/Ground.mat using Guid(41157da1e5585d744a0f328323061143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0cc7d6a52717840b3bdf17ebd004b1') in 0.064250 seconds
+  Import took 0.071188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/[Escape From Kitchen[/2/Materials/Obstacle.mat
+  artifactKey: Guid(055c071d53076dd4c99a3efd166cb569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Materials/Obstacle.mat using Guid(055c071d53076dd4c99a3efd166cb569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7dfb74cc5b4289b72ff0e3dfac7e23') in 0.009129 seconds
+  Import took 0.015883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.589501 seconds.
+  path: Assets/SpiderProceduralAnimation.unity
+  artifactKey: Guid(4155f6c2d2735bd499d3a319162ca788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderProceduralAnimation.unity using Guid(4155f6c2d2735bd499d3a319162ca788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac1cee2c5718991655f941922ff4157') in 0.010994 seconds
+  Import took 0.018570 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.412 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.6 MB.
+System memory in use after: 134.8 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3748.
+Total: 7.775800 ms (FindLiveObjects: 0.394700 ms CreateObjectMapping: 0.150400 ms MarkObjects: 7.193100 ms  DeleteObjects: 0.036300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.323937 seconds.
+  path: Assets/SpiderProceduralAnimation.unity
+  artifactKey: Guid(4155f6c2d2735bd499d3a319162ca788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderProceduralAnimation.unity using Guid(4155f6c2d2735bd499d3a319162ca788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016a4aeeb5ba05e8e763058914be88b9') in 0.021177 seconds
+  Import took 0.027366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.090967 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Scene
+  artifactKey: Guid(61f1a814a3c8ed84ca9e84555344d619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Scene using Guid(61f1a814a3c8ed84ca9e84555344d619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d637cbd50d8633ce51d13321333aaa7') in 0.008025 seconds
+  Import took 0.016355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002042 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Scene
+  artifactKey: Guid(61f1a814a3c8ed84ca9e84555344d619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Scene using Guid(61f1a814a3c8ed84ca9e84555344d619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d637cbd50d8633ce51d13321333aaa7') in 0.002514 seconds
+  Import took 0.008851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.211248 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Scene/Demo.unity
+  artifactKey: Guid(82586dc55695d2d47b77cc8c9aa46789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Scene/Demo.unity using Guid(82586dc55695d2d47b77cc8c9aa46789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1052f1c743a5917635a64f34f931b29') in 0.008464 seconds
+  Import took 0.016611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001167 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Scene/Demo.unity
+  artifactKey: Guid(82586dc55695d2d47b77cc8c9aa46789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Scene/Demo.unity using Guid(82586dc55695d2d47b77cc8c9aa46789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1052f1c743a5917635a64f34f931b29') in 0.003088 seconds
+  Import took 0.011338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.632958 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Model/OrangeSpider.fbx
+  artifactKey: Guid(d0b781d7caabd754b8401230a185c88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Model/OrangeSpider.fbx using Guid(d0b781d7caabd754b8401230a185c88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38f9ce5db24a8fe9fe62e23706058f9') in 0.104195 seconds
+  Import took 0.111474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.624590 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Materials/SpiderOrange.mat
+  artifactKey: Guid(087d36deeefa22043a4934f58c07c993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Materials/SpiderOrange.mat using Guid(087d36deeefa22043a4934f58c07c993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bed6883e871fb7f8f36f5597ec176f5') in 0.015606 seconds
+  Import took 0.022225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.057657 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderProceduralAnimation.unity
+  artifactKey: Guid(0546c487bae43f248afce867c734b4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderProceduralAnimation.unity using Guid(0546c487bae43f248afce867c734b4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6128a0bfa3a11c1bcafebcec185b3a47') in 0.003627 seconds
+  Import took 0.010878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.743885 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange
+  artifactKey: Guid(18d3ea4856c7fd341959ca8f869cf025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange using Guid(18d3ea4856c7fd341959ca8f869cf025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd566d3780acfd07ec2517780a23488') in 0.002964 seconds
+  Import took 0.010417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.992998 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Prefab/SpiderOrange.prefab
+  artifactKey: Guid(2c4bdb3b576d3bb4f87312844d4757ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Prefab/SpiderOrange.prefab using Guid(2c4bdb3b576d3bb4f87312844d4757ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c58539718e7ea839c2cd9ab7c5cb911') in 0.007262 seconds
+  Import took 0.013591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.530876 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/Ambient Occlusion Map from Mesh DefaultMaterial.png
+  artifactKey: Guid(7540db48dc4066e48a78b92524d90164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/Ambient Occlusion Map from Mesh DefaultMaterial.png using Guid(7540db48dc4066e48a78b92524d90164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce2320ec8e7fc4fccc850847288b8c8') in 0.019569 seconds
+  Import took 0.026261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/NPCSpider_DefaultMaterial_MetallicSmoothness.png
+  artifactKey: Guid(90ee13ce5dc250d47ba1fa2212499575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/NPCSpider_DefaultMaterial_MetallicSmoothness.png using Guid(90ee13ce5dc250d47ba1fa2212499575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935d5b730d5adbfa9cc3c71fa9b55147') in 0.014299 seconds
+  Import took 0.020963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/NPCSpider_DefaultMaterial_Normal.png
+  artifactKey: Guid(0be7b9a73a3455f4eb48fbf400632d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/NPCSpider_DefaultMaterial_Normal.png using Guid(0be7b9a73a3455f4eb48fbf400632d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7062e54e780b4ceb40d01ff6a81718d') in 0.023308 seconds
+  Import took 0.030546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/NPCSpider_DefaultMaterial_AlbedoTransparency.png
+  artifactKey: Guid(39688336680e7e54289603530e1a97b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Texture/NPCSpider_DefaultMaterial_AlbedoTransparency.png using Guid(39688336680e7e54289603530e1a97b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d7fe505487cb24772d9df81c6ea256') in 0.052444 seconds
+  Import took 0.059785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1083.016936 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  6.fbx
+  artifactKey: Guid(1ae333dfbfc17264eb2b022a2ea371e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  6.fbx using Guid(1ae333dfbfc17264eb2b022a2ea371e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3114303637a40bc6e738319b120716') in 0.102509 seconds
+  Import took 0.110764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  7.fbx
+  artifactKey: Guid(6f4ab09a488c38f4d84995f5d5fe837c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  7.fbx using Guid(6f4ab09a488c38f4d84995f5d5fe837c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2fcde6fc379a53958751cdafc35b90f') in 0.031501 seconds
+  Import took 0.041168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  8.fbx
+  artifactKey: Guid(cda8e542265b4f945ab2faca05ecd677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  8.fbx using Guid(cda8e542265b4f945ab2faca05ecd677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8925f8de447c165a1cbfadd314ff4290') in 0.039824 seconds
+  Import took 0.047864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  4.fbx
+  artifactKey: Guid(69336ddcf7b0ce6489b3d1ddd9fb31ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  4.fbx using Guid(69336ddcf7b0ce6489b3d1ddd9fb31ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a2beb4738455d132eb16388c5e0eb0') in 0.035434 seconds
+  Import took 0.042876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  12.fbx
+  artifactKey: Guid(9ea68207c21d6444cb01eebf879b010a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  12.fbx using Guid(9ea68207c21d6444cb01eebf879b010a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ec736b350af595b92ddd9312eaaa55') in 0.039338 seconds
+  Import took 0.046339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  2.fbx
+  artifactKey: Guid(37683b4364e45d04cb25100ca066caa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  2.fbx using Guid(37683b4364e45d04cb25100ca066caa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8efd88b77a8864c2bce02019318383f0') in 0.036985 seconds
+  Import took 0.046707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  11.fbx
+  artifactKey: Guid(c739f2398d6d39940855b5c600ceebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  11.fbx using Guid(c739f2398d6d39940855b5c600ceebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdca4a9ebc924b165c4d470a06d58ca3') in 0.030137 seconds
+  Import took 0.038393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  3.fbx
+  artifactKey: Guid(c24a36e27ae3bc54094d67f1741e17db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  3.fbx using Guid(c24a36e27ae3bc54094d67f1741e17db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38acd33d7b633e252831456ef2def4f') in 0.031933 seconds
+  Import took 0.040414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  1.fbx
+  artifactKey: Guid(b189965dcda9d8146a23ca52f24b7a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  1.fbx using Guid(b189965dcda9d8146a23ca52f24b7a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ee07b184abb27f0951166f3dd22022') in 0.033980 seconds
+  Import took 0.040568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  5.fbx
+  artifactKey: Guid(9b56e9b785019724fae145ca8677112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  5.fbx using Guid(9b56e9b785019724fae145ca8677112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37145bb8e650c28ed9f29841e54cfd1') in 0.042011 seconds
+  Import took 0.048718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  9.fbx
+  artifactKey: Guid(11f5805ff1f9c5a43809661686bcb628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  9.fbx using Guid(11f5805ff1f9c5a43809661686bcb628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd9d3044340ed241f395fdfe11a5297') in 0.036014 seconds
+  Import took 0.042896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/building  10.fbx
+  artifactKey: Guid(43314aa2b33a6d44f9bcf99c4b322655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/building  10.fbx using Guid(43314aa2b33a6d44f9bcf99c4b322655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a5176d7e1531104b0baa10703b260a') in 0.035460 seconds
+  Import took 0.045364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.433288 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/a chair 2.fbx
+  artifactKey: Guid(975ea7a22e0a19345a2f945347d9e8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/a chair 2.fbx using Guid(975ea7a22e0a19345a2f945347d9e8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2e841817202c6e48be805811af156f') in 0.024447 seconds
+  Import took 0.032277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/tv .fbx
+  artifactKey: Guid(e1d8f82118b49474f8a9a6dc19ac2508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/tv .fbx using Guid(e1d8f82118b49474f8a9a6dc19ac2508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b7d5faf496e962e0dc70e3f35e116a') in 0.028547 seconds
+  Import took 0.035341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Wall clock.fbx
+  artifactKey: Guid(202fceb9d5013a74591abb73251f4dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Wall clock.fbx using Guid(202fceb9d5013a74591abb73251f4dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42d4c301194615a3b97a66c34833ec4') in 0.058929 seconds
+  Import took 0.065809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 2.fbx
+  artifactKey: Guid(75559eb60b355454eb2bd038faa18e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 2.fbx using Guid(75559eb60b355454eb2bd038faa18e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17a547c2dd9a174f1437ca25758a925') in 0.038259 seconds
+  Import took 0.045041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/bedroom.fbx
+  artifactKey: Guid(12818ecbc286e3d4cbbee4a8efeed823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/bedroom.fbx using Guid(12818ecbc286e3d4cbbee4a8efeed823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ac3908363b9f012982a04ef859a339') in 0.044029 seconds
+  Import took 0.052889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/toillet.fbx
+  artifactKey: Guid(77010f6786a09f846a6c27dac95eb373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/toillet.fbx using Guid(77010f6786a09f846a6c27dac95eb373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '696384d5dc0ca367d93374fa1e70e15c') in 0.032648 seconds
+  Import took 0.039723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Mirror.fbx
+  artifactKey: Guid(e6ada06a29f44394bb34b8f33acfd68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Mirror.fbx using Guid(e6ada06a29f44394bb34b8f33acfd68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547ca6a8c68c24d3f4b772f80e76814c') in 0.039233 seconds
+  Import took 0.045705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081196 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 3.fbx
+  artifactKey: Guid(71af5c5120905ff4d83c97c44c362cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 3.fbx using Guid(71af5c5120905ff4d83c97c44c362cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41280f5676d63f123b16a0471bac61a8') in 0.031998 seconds
+  Import took 0.040365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 1.fbx
+  artifactKey: Guid(dda79a7fa993e0e44b002831badeda1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 1.fbx using Guid(dda79a7fa993e0e44b002831badeda1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba7c5114493fce18987738f4b8b9790') in 0.030955 seconds
+  Import took 0.037991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/table.fbx
+  artifactKey: Guid(fcd750f9bbf09454c8036e529b08ebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/table.fbx using Guid(fcd750f9bbf09454c8036e529b08ebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da4a9ea1f6e4b340c36f85cbe154137') in 0.033150 seconds
+  Import took 0.041470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 3.fbx
+  artifactKey: Guid(71af5c5120905ff4d83c97c44c362cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Kitchen table 3.fbx using Guid(71af5c5120905ff4d83c97c44c362cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41280f5676d63f123b16a0471bac61a8') in 0.030286 seconds
+  Import took 0.037735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Refrigerator.fbx
+  artifactKey: Guid(b018d4066c45b564a96a058311296bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Refrigerator.fbx using Guid(b018d4066c45b564a96a058311296bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bd2d607a03f8bf93f1bb26d1bdb5bc') in 0.032921 seconds
+  Import took 0.041882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/tv .table.fbx
+  artifactKey: Guid(98de78f48b1ecc84bab1cb773713df1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/tv .table.fbx using Guid(98de78f48b1ecc84bab1cb773713df1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a3c70ebb5443c43a363bd8ab2c60a7') in 0.032286 seconds
+  Import took 0.042005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/a chair 1.fbx
+  artifactKey: Guid(a051b6c3c87ec9d4ea3984ac399b829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/a chair 1.fbx using Guid(a051b6c3c87ec9d4ea3984ac399b829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402f92436fd38727b4636c4d81c72e1a') in 0.033950 seconds
+  Import took 0.043307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Kitchen chimney.fbx
+  artifactKey: Guid(e9074cd10586b99469cc5be045b82372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Kitchen chimney.fbx using Guid(e9074cd10586b99469cc5be045b82372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '758a67f29c5a24e11ffb4bba2766d594') in 0.039600 seconds
+  Import took 0.046892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Closet.fbx
+  artifactKey: Guid(ce4ee2188ee61964ab3931c391e50cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Closet.fbx using Guid(ce4ee2188ee61964ab3931c391e50cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a54b54ebfe0c5a9645c16601287003c') in 0.037813 seconds
+  Import took 0.044696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Closet 2.fbx
+  artifactKey: Guid(4e78b6a9b6965de41a1c26f49e2292a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Closet 2.fbx using Guid(4e78b6a9b6965de41a1c26f49e2292a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81adac687e6408a52a0699a56e85729e') in 0.036771 seconds
+  Import took 0.046463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Library box.fbx
+  artifactKey: Guid(d1a487ad624d8ab4eb57ace43230fd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Library box.fbx using Guid(d1a487ad624d8ab4eb57ace43230fd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e585e9b84873a784376d7e4069ee616') in 0.025502 seconds
+  Import took 0.032861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/The bathroom wash.fbx
+  artifactKey: Guid(49f616cf679386f488046babd072d14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/The bathroom wash.fbx using Guid(49f616cf679386f488046babd072d14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a3a7990d1ecf8eaba1922b158c2d33') in 0.036365 seconds
+  Import took 0.046505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/ABAJORE.fbx
+  artifactKey: Guid(76070a25e3912424ab51bfa81a58a6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/ABAJORE.fbx using Guid(76070a25e3912424ab51bfa81a58a6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf597f5162dba9696b8ef3c91d82e55d') in 0.040135 seconds
+  Import took 0.046664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/dor.fbx
+  artifactKey: Guid(954d7451fc77cab488be2f6739c5270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/dor.fbx using Guid(954d7451fc77cab488be2f6739c5270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3774cdc356dae682c11589f7fe2023') in 0.065290 seconds
+  Import took 0.073086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/models/Book.fbx
+  artifactKey: Guid(cf9004611daacd541b2f6d0730d38e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/models/Book.fbx using Guid(cf9004611daacd541b2f6d0730d38e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa4de18382d1bda2cc46a1d73b324ab') in 0.033478 seconds
+  Import took 0.040646 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003971 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.457 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.8 MB.
+System memory in use after: 135.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3754.
+Total: 6.962100 ms (FindLiveObjects: 0.328800 ms CreateObjectMapping: 0.157800 ms MarkObjects: 6.439500 ms  DeleteObjects: 0.033800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.008354 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Materials/SpiderOrange.mat
+  artifactKey: Guid(087d36deeefa22043a4934f58c07c993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Materials/SpiderOrange.mat using Guid(087d36deeefa22043a4934f58c07c993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8548a42ac4828454d5ffe02995db31') in 0.079362 seconds
+  Import took 0.086024 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.487 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.8 MB.
+System memory in use after: 135.1 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3756.
+Total: 7.466500 ms (FindLiveObjects: 0.301400 ms CreateObjectMapping: 0.171100 ms MarkObjects: 6.949100 ms  DeleteObjects: 0.043700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005873 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.499 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.9 MB.
+System memory in use after: 135.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3761.
+Total: 7.724500 ms (FindLiveObjects: 0.332100 ms CreateObjectMapping: 0.150700 ms MarkObjects: 7.208900 ms  DeleteObjects: 0.031600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.827367 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderOrange/Scene
+  artifactKey: Guid(b816cf00ef17f3a4086177fdd4e55b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderOrange/Scene using Guid(b816cf00ef17f3a4086177fdd4e55b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be3919a2cd42ea6857e7b8a22f4f8d20') in 0.008795 seconds
+  Import took 0.016400 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.437 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.9 MB.
+System memory in use after: 135.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3764.
+Total: 8.041900 ms (FindLiveObjects: 0.519900 ms CreateObjectMapping: 0.374700 ms MarkObjects: 7.105200 ms  DeleteObjects: 0.039700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.763472 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/Scenes
+  artifactKey: Guid(2d46a0cd1b6ff4e4eba29878a224c7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/Scenes using Guid(2d46a0cd1b6ff4e4eba29878a224c7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afeb476bc02736abebfef88e2ebc746b') in 0.013732 seconds
+  Import took 0.020674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.408265 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/a chair 2 .prefab
+  artifactKey: Guid(112585606102ed84e86a4aa3f66cbc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/a chair 2 .prefab using Guid(112585606102ed84e86a4aa3f66cbc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0179d71f4c0975c02de4a64da43a238b') in 0.066257 seconds
+  Import took 0.072936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Book (5).prefab
+  artifactKey: Guid(902c230d36ad93f4596307ba352cc59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Book (5).prefab using Guid(902c230d36ad93f4596307ba352cc59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b907344ac107e2c9695e7d798d38017e') in 0.016879 seconds
+  Import took 0.022783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  4.prefab
+  artifactKey: Guid(4a092887a9ea04b48954b551df080d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  4.prefab using Guid(4a092887a9ea04b48954b551df080d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6527e04b4d37678cf7711f7587baf7ee') in 0.041445 seconds
+  Import took 0.049160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  6.prefab
+  artifactKey: Guid(a6aaa6aecbed6e346b713a2d217fa712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  6.prefab using Guid(a6aaa6aecbed6e346b713a2d217fa712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a59e0d2b664993ee24b62925934ddb2') in 0.020029 seconds
+  Import took 0.026741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Closet 2.prefab
+  artifactKey: Guid(6cbc4bb5a6a876245930161c911b6268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Closet 2.prefab using Guid(6cbc4bb5a6a876245930161c911b6268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cae12df5aca7343218df453b9da8859') in 0.016183 seconds
+  Import took 0.023706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen table 3.prefab
+  artifactKey: Guid(9dbaa3c51be2a5d46ada645fd0bb6ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen table 3.prefab using Guid(9dbaa3c51be2a5d46ada645fd0bb6ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a532ba39f95c4b1375ba76ccedffcf6d') in 0.013845 seconds
+  Import took 0.025466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  1.prefab
+  artifactKey: Guid(0407793634984d046b849f47f8296071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  1.prefab using Guid(0407793634984d046b849f47f8296071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c731823ee61db2ca6ddef33f74b95898') in 0.019161 seconds
+  Import took 0.026709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/ABAJORE.prefab
+  artifactKey: Guid(1a863a4aadf47694aab5f57ec574f9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/ABAJORE.prefab using Guid(1a863a4aadf47694aab5f57ec574f9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26d94258645b4434e0137cddfb6cfa1') in 0.018410 seconds
+  Import took 0.026290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/dor.prefab
+  artifactKey: Guid(9a72698669609c54093233cd52b1b762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/dor.prefab using Guid(9a72698669609c54093233cd52b1b762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241dce2dc6b2410090e653e8b7283157') in 0.016578 seconds
+  Import took 0.026950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/floor.prefab
+  artifactKey: Guid(e7f0b91e23bec664fb51b1cd9f4db25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/floor.prefab using Guid(e7f0b91e23bec664fb51b1cd9f4db25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e908cc8cd7e802f961cf8890a0839e39') in 0.020068 seconds
+  Import took 0.026905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  5.prefab
+  artifactKey: Guid(af75d080d201154459444844e0486a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  5.prefab using Guid(af75d080d201154459444844e0486a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02510915e12f6f09c3ce3d3f412045c8') in 0.017974 seconds
+  Import took 0.025801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  9.prefab
+  artifactKey: Guid(d924091f4ab9c334d85d6d46d7d59f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  9.prefab using Guid(d924091f4ab9c334d85d6d46d7d59f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9b8a6db93e23ab459bf3107e8a23f2') in 0.015061 seconds
+  Import took 0.024365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/a chair.prefab
+  artifactKey: Guid(7d00b25fb2c958040aa3b9b0437adf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/a chair.prefab using Guid(7d00b25fb2c958040aa3b9b0437adf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f319efae5097a271b3d7c7b2f3aac09') in 0.018572 seconds
+  Import took 0.028041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  10.prefab
+  artifactKey: Guid(7f7c3b254d63bc94ba4cde632635a827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  10.prefab using Guid(7f7c3b254d63bc94ba4cde632635a827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf3b62869c2575b87834501d5c06029') in 0.019070 seconds
+  Import took 0.026813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/bedroom.prefab
+  artifactKey: Guid(abaf630b597e20f409f6f9c605de4b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/bedroom.prefab using Guid(abaf630b597e20f409f6f9c605de4b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad69bf3c626f2a1a52aa5649853b46c') in 0.022419 seconds
+  Import took 0.031437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  2.prefab
+  artifactKey: Guid(62dc9c48bd8a3ef4b8461237c7fc905e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  2.prefab using Guid(62dc9c48bd8a3ef4b8461237c7fc905e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e666e3a7bf6f398673f01403a46984df') in 0.018029 seconds
+  Import took 0.025827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  8.prefab
+  artifactKey: Guid(5f86c051013d68942915b1d83acb6acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  8.prefab using Guid(5f86c051013d68942915b1d83acb6acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23490d42a2b23fdf8cd3f4b1a73b297d') in 0.014774 seconds
+  Import took 0.024420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen chimney.prefab
+  artifactKey: Guid(e9c8a8552ada0fe47b9f309273ab3417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen chimney.prefab using Guid(e9c8a8552ada0fe47b9f309273ab3417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0b2328d7c1e51bd8f933e1959c4528') in 0.017446 seconds
+  Import took 0.024626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Library box.prefab
+  artifactKey: Guid(4318fde55093d0c47a5329c17da99607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Library box.prefab using Guid(4318fde55093d0c47a5329c17da99607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17881ac1527badccd6b6727c4fd9c713') in 0.020627 seconds
+  Import took 0.027858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  3.prefab
+  artifactKey: Guid(bac1204e26982ac4aad12e7158161e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  3.prefab using Guid(bac1204e26982ac4aad12e7158161e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642d37e2375f736e6008660062602c1d') in 0.025632 seconds
+  Import took 0.032588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  7.prefab
+  artifactKey: Guid(8b0b33ec89e8b3c42bde6fd58a900898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  7.prefab using Guid(8b0b33ec89e8b3c42bde6fd58a900898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4597e8ca1d32d5f49ed049a8d06e60b') in 0.023628 seconds
+  Import took 0.031894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  11.prefab
+  artifactKey: Guid(2710450c7b6a7ed4eb068fb2dfa5a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  11.prefab using Guid(2710450c7b6a7ed4eb068fb2dfa5a07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73cc726b1f5ad092b25d6d819fda9985') in 0.023246 seconds
+  Import took 0.032315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen table 2.prefab
+  artifactKey: Guid(e9bdd5697d4985040a16b125b9a594df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen table 2.prefab using Guid(e9bdd5697d4985040a16b125b9a594df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9b847544f3ac1e08f6fe4fbc613ac8') in 0.016636 seconds
+  Import took 0.023457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/building  12.prefab
+  artifactKey: Guid(1eb32983ee91b364caa5e9240a916084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/building  12.prefab using Guid(1eb32983ee91b364caa5e9240a916084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43e7340d9499d13e375905fd79d0e53') in 0.016217 seconds
+  Import took 0.026845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Closet.prefab
+  artifactKey: Guid(7776e01048df8994183781715c2ad8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Closet.prefab using Guid(7776e01048df8994183781715c2ad8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c7674c5c57e7311663098d10eb6419') in 0.015442 seconds
+  Import took 0.024625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Bottle (3).prefab
+  artifactKey: Guid(8355eba149162ff42a1a3038db50f485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Bottle (3).prefab using Guid(8355eba149162ff42a1a3038db50f485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11f5120717e22b2e260f1087f7dcc70') in 0.018863 seconds
+  Import took 0.027204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/dor 1.prefab
+  artifactKey: Guid(d54ea04d881d39b4bb3815ad40091323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/dor 1.prefab using Guid(d54ea04d881d39b4bb3815ad40091323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635b34f717ea97b5b657eec31810e960') in 0.020654 seconds
+  Import took 0.029443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen table 1.prefab
+  artifactKey: Guid(b35eef3dfa178c042af3d28ec0dc14bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/pefabs/Kitchen table 1.prefab using Guid(b35eef3dfa178c042af3d28ec0dc14bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2d2416d951fe688dd0023e84e19381') in 0.020229 seconds
+  Import took 0.027780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.335193 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/texture/texture buildin.png
+  artifactKey: Guid(0e6be2b4ff8af2047827353a47d3d07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/texture/texture buildin.png using Guid(0e6be2b4ff8af2047827353a47d3d07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4fe5be5d3bfa30b7c7ea8095c09d1a') in 0.018981 seconds
+  Import took 0.026085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.074101 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/1.mat
+  artifactKey: Guid(35cbfd944c1775f4ba0b392f681d18ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/1.mat using Guid(35cbfd944c1775f4ba0b392f681d18ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45ba3150cb81f352752712282c990a5') in 0.025968 seconds
+  Import took 0.033215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/6.mat
+  artifactKey: Guid(6ec883ad011a7a2448f3f15bad24e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/6.mat using Guid(6ec883ad011a7a2448f3f15bad24e38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3417eee9ddeb3c25a781c97ae6ce67') in 0.015806 seconds
+  Import took 0.022345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/2.mat
+  artifactKey: Guid(96dfce3e282fb5240b56a5520d9a6539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/2.mat using Guid(96dfce3e282fb5240b56a5520d9a6539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176faaa2e2ecdebed7994236106aed6c') in 0.014500 seconds
+  Import took 0.021987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/4.mat
+  artifactKey: Guid(efd7c60ff98cc7c409275eefc6ddc1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/4.mat using Guid(efd7c60ff98cc7c409275eefc6ddc1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9512fde9e22560e4bef87102642a579') in 0.018177 seconds
+  Import took 0.025723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/5.mat
+  artifactKey: Guid(f186870023fda6c4686fef5e7dde4ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/5.mat using Guid(f186870023fda6c4686fef5e7dde4ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1207700c8bc5fd1a08771b8a025fb8') in 0.017766 seconds
+  Import took 0.025082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/building 1.mat
+  artifactKey: Guid(b468d699d102d5e48b501cb63cfdf239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/building 1.mat using Guid(b468d699d102d5e48b501cb63cfdf239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60791178a65e73896656ee4a45fdd036') in 0.018073 seconds
+  Import took 0.028119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/building.mat
+  artifactKey: Guid(119a749ea52834c4ebd5e1fc18c09ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/building.mat using Guid(119a749ea52834c4ebd5e1fc18c09ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07cb200523be7a18ba06e867b6d8be4') in 0.018433 seconds
+  Import took 0.026101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/7.mat
+  artifactKey: Guid(2e67c9a28d48d1c40919d8caf2495f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/7.mat using Guid(2e67c9a28d48d1c40919d8caf2495f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2153b87276640a45c04f9055f9d4304f') in 0.017339 seconds
+  Import took 0.025446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/material/3.mat
+  artifactKey: Guid(4b71208dba7c90d42999ff8195cb96c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/material/3.mat using Guid(4b71208dba7c90d42999ff8195cb96c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a25654a7ad9b157019502700ead89f') in 0.016389 seconds
+  Import took 0.026091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.032754 seconds.
+  path: Assets/hyper casual asset ( City and Home decor)/Scenes/SampleScene.unity
+  artifactKey: Guid(b70292eda4c4779449b6f398eaa6fbd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hyper casual asset ( City and Home decor)/Scenes/SampleScene.unity using Guid(b70292eda4c4779449b6f398eaa6fbd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a88ec6527ee0457d01fc8b9174a9cae') in 0.009570 seconds
+  Import took 0.016406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.869012 seconds.
+  path: Assets/[Escape From Kitchen[/2/Materials/Ground.mat
+  artifactKey: Guid(87510056ddddf614e8c6c38d6b033f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Materials/Ground.mat using Guid(87510056ddddf614e8c6c38d6b033f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae732dc75cdf08411e56f07f3c7d636') in 0.009540 seconds
+  Import took 0.016494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/[Escape From Kitchen[/2/Materials/Obstacle.mat
+  artifactKey: Guid(14f9ad8d1581eff4d8f6ded53b8fb8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/Materials/Obstacle.mat using Guid(14f9ad8d1581eff4d8f6ded53b8fb8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6756aefad9162259e09aecc804540d') in 0.015808 seconds
+  Import took 0.023080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.898427 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderProceduralAnimation.unity
+  artifactKey: Guid(0546c487bae43f248afce867c734b4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderProceduralAnimation.unity using Guid(0546c487bae43f248afce867c734b4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03fa6d6bd368b44c77e93c3813dcf18e') in 0.004126 seconds
+  Import took 0.011851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001568 seconds.
+  path: Assets/[Escape From Kitchen[/2/SpiderProceduralAnimation.unity
+  artifactKey: Guid(0546c487bae43f248afce867c734b4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Escape From Kitchen[/2/SpiderProceduralAnimation.unity using Guid(0546c487bae43f248afce867c734b4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03fa6d6bd368b44c77e93c3813dcf18e') in 0.004195 seconds
+  Import took 0.012102 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004201 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.834 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.1 MB.
+System memory in use after: 135.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3769.
+Total: 9.262300 ms (FindLiveObjects: 0.610700 ms CreateObjectMapping: 0.230700 ms MarkObjects: 8.383900 ms  DeleteObjects: 0.034500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004366 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.525 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.1 MB.
+System memory in use after: 135.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3772.
+Total: 6.983500 ms (FindLiveObjects: 0.342900 ms CreateObjectMapping: 0.162700 ms MarkObjects: 6.443200 ms  DeleteObjects: 0.032700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005425 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.171 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.1 MB.
+System memory in use after: 135.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3775.
+Total: 10.709300 ms (FindLiveObjects: 0.735400 ms CreateObjectMapping: 0.192700 ms MarkObjects: 9.731300 ms  DeleteObjects: 0.047300 ms)
+
